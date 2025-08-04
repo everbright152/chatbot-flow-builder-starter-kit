@@ -36,7 +36,7 @@ export function NavigationBarModule() {
 
           <div className="ml-3 h-full flex flex-col select-none justify-center gap-y-1 leading-none">
             <div className="text-sm font-medium leading-none <md:(text-xs)">
-              Chatbot Flow Builder - BiteSpeed Frontend Task
+              Chatbot Flow Builder - Starter Kit
             </div>
 
             <div className="text-xs text-light-50/60 leading-none">
@@ -80,7 +80,7 @@ export function NavigationBarModule() {
 
               <SocialButtonLink
                 onClick={() => trackSocialLinkClick('github')}
-                href="https://github.com/denishsharma/chatbot-flow-builder-task-bitespeed"
+                href="https://github.com/denishsharma/chatbot-flow-builder-starter-kit"
               >
                 <div className="i-mynaui:brand-github size-4.5" />
               </SocialButtonLink>

@@ -81,7 +81,7 @@ export function MobileSidebarFragment({ activePanel, setActivePanel }: MobileSid
           </a>
 
           <a
-            href="https://github.com/denishsharma/chatbot-flow-builder-task-bitespeed"
+            href="https://github.com/denishsharma/chatbot-flow-builder-starter-kit"
             onClick={() => trackSocialLinkClick('github')}
             target="_blank"
             rel="noopener noreferrer"
